@@ -46,7 +46,7 @@ public class JdkRetransformClassesOomApplication {
 			install.retransformClasses(FFF.class);
 
 //			TimeUnit.SECONDS.sleep(1);
-			TimeUnit.MILLISECONDS.sleep(10);
+			TimeUnit.MILLISECONDS.sleep(1);
 		}
 
 	}
